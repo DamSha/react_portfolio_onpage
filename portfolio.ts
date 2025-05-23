@@ -12,26 +12,28 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Hanzla Tauqeer",
-  title: "Hi all, I'm Hanzla",
+  name: "Damien Chauvet",
+  title: "Hi all",
   description:
-    "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
+    "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies." +
+    "I am strongly interested in learning new technologies and implementing them in my projects. " +
+    "I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
   resumeLink: "#",
 };
 
 export const openSource = {
-  githubUserName: "1hanzla100",
+  githubUserName: "DamSha",
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:hanzla.tauqeer123@gmail.com",
-  linkedin: "https://www.linkedin.com/in/1hanzla100/",
-  github: "https://github.com/1hanzla100",
-  instagram: "https://www.instagram.com/__hanzla100",
-  // facebook: 'https://www.facebook.com/1hanzla100',
-  // twitter: 'https://twitter.com/1hanzla100',
+  email: "mailto:hire-me@damien-chauvet.net",
+  linkedin: "https://www.linkedin.com/in/damien-chauvet-net/",
+  github: "https://github.com/DamSha",
+  // instagram: "https://www.instagram.com/",
+  // facebook: 'https://www.facebook.com/DamSha',
+  // twitter: 'https://twitter.com/DamSha',
 };
 
 export const skillsSection: SkillsSectionType = {
